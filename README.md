@@ -1,6 +1,8 @@
 PicoScope ADC-20/ADC-24
-1. Use the picosdk-python-wrappers from the official PicoTech github website
+Use the picosdk-python-wrappers from the official PicoTech github website
+   
 (1) Install the PicoSDK
+
 https://www.picotech.com/downloads 
 (2) Install git, change the path
 https://git-scm.com/downloads 
