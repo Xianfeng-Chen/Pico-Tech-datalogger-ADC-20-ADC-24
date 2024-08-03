@@ -27,3 +27,5 @@ https://github.com/picotech/picosdk-python-wrappers#unsupported-models
 Important notes:
 
 voltage_range = ctypes.c_int16(0)  # Voltage range index (0 corresponds to 2500mV), only choose 0 or 1 for ADC20
+
+Consult programmer's guide to know more...
